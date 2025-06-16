@@ -12,6 +12,8 @@ This is a **Plants vs Zombies** (PvZ)-inspired game built using **C++** and **CM
   - `BasePlant`, `BaseZombie`, and `BaseBullet` are the foundational classes, extending from `BaseGameObject` to encapsulate common functionality.
   - Animations are included for actions like shooting and movement to enhance the gaming experience.
 
+More details in design - [guide](DesignDoc.md)
+
 ## Architecture
 
 - **Object-Oriented Design**: All entities in the game (plants, zombies, bullets, etc.) are derived from the `BaseGameObject` class.
